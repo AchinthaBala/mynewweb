@@ -1,2 +1,2 @@
 FROM httpd
-ADD /var/www/html/index.html /var/www/html
+ADD /home/ec2-user/jenkins/workspace/git-job/index.html /var/www/html/
